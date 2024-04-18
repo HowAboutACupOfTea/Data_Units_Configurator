@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\StringVisualizer\bin\Debug\StringVisualizer.dll
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\StringVisualizer\bin\Debug\StringVisualizer.pdb
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\StringVisualizer\obj\Debug\StringVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\StringVisualizer\obj\Debug\StringVisualizer.dll
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\StringVisualizer\obj\Debug\StringVisualizer.pdb
