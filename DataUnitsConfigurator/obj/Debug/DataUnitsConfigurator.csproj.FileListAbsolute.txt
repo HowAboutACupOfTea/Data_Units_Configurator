@@ -1,0 +1,19 @@
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\4.Hausübung\DataUnitsConfigurator\DataUnitsConfigurator\bin\Debug\DataUnitsConfigurator.exe.config
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\4.Hausübung\DataUnitsConfigurator\DataUnitsConfigurator\bin\Debug\DataUnitsConfigurator.exe
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\4.Hausübung\DataUnitsConfigurator\DataUnitsConfigurator\bin\Debug\DataUnitsConfigurator.pdb
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\4.Hausübung\DataUnitsConfigurator\DataUnitsConfigurator\obj\Debug\DataUnitsConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\4.Hausübung\DataUnitsConfigurator\DataUnitsConfigurator\obj\Debug\DataUnitsConfigurator.exe
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\4.Hausübung\DataUnitsConfigurator\DataUnitsConfigurator\obj\Debug\DataUnitsConfigurator.pdb
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataUnitsConfigurator\bin\Debug\DataUnitsConfigurator.exe.config
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataUnitsConfigurator\bin\Debug\DataUnitsConfigurator.exe
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataUnitsConfigurator\bin\Debug\DataUnitsConfigurator.pdb
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataUnitsConfigurator\obj\Debug\DataUnitsConfigurator.csproj.CoreCompileInputs.cache
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataUnitsConfigurator\obj\Debug\DataUnitsConfigurator.exe
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataUnitsConfigurator\obj\Debug\DataUnitsConfigurator.pdb
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataUnitsConfigurator\obj\Debug\DataUnitsConfigurator.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataUnitsConfigurator\bin\Debug\DataUnitsConfigurator.exe.config
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataUnitsConfigurator\bin\Debug\DataUnitsConfigurator.exe
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataUnitsConfigurator\bin\Debug\DataUnitsConfigurator.pdb
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataUnitsConfigurator\obj\Debug\DataUnitsConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataUnitsConfigurator\obj\Debug\DataUnitsConfigurator.exe
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataUnitsConfigurator\obj\Debug\DataUnitsConfigurator.pdb
