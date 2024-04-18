@@ -1,0 +1,16 @@
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\4.Hausübung\DataUnitsConfigurator\DataVisualizer\bin\Debug\DataVisualizer.dll
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\4.Hausübung\DataUnitsConfigurator\DataVisualizer\bin\Debug\DataVisualizer.pdb
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\4.Hausübung\DataUnitsConfigurator\DataVisualizer\obj\Debug\DataVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\4.Hausübung\DataUnitsConfigurator\DataVisualizer\obj\Debug\DataVisualizer.dll
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\4.Hausübung\DataUnitsConfigurator\DataVisualizer\obj\Debug\DataVisualizer.pdb
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataVisualizer\bin\Debug\DataVisualizer.dll
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataVisualizer\bin\Debug\DataVisualizer.pdb
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataVisualizer\obj\Debug\DataVisualizer.csproj.CoreCompileInputs.cache
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataVisualizer\obj\Debug\DataVisualizer.dll
+\\tobias\studenten\118495\Desktop\OOP Ü\HW\DataUnitsConfigurator\DataVisualizer\obj\Debug\DataVisualizer.pdb
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataVisualizer\bin\Debug\DataVisualizer.dll
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataVisualizer\bin\Debug\DataVisualizer.pdb
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataVisualizer\obj\Debug\DataVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataVisualizer\obj\Debug\DataVisualizer.dll
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataVisualizer\obj\Debug\DataVisualizer.pdb
+C:\Users\Daniel\Documents\FH WN\Kurse\2.Semester()\Objektorientierte Programmierung Ü\Wiederholungsantritt\DataUnitsConfigurator\DataVisualizer\obj\Debug\DataVisualizer.csproj.AssemblyReference.cache
